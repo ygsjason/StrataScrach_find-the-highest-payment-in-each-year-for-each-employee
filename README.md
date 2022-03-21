@@ -1,0 +1,1 @@
+# StrataScrach_find-the-highest-payment-in-each-year-for-each-employee
